@@ -1,0 +1,1 @@
+{"Toronto": 4118, "Seoul": 1132599, "Tokyo": 1118370, "Paris": 615702, "Madrid": 766273, "Moscow": 2122265, "Chicago": 2379574, "Buenos Aires": 468739, "Singapore": 23424948, "Berlin": 638242, "New York": 2459115, "London": 44418, "Los Angeles": 2442047, "Vienna": 551801, "Hong Kong": 24865698, "Sydney": 1105779, "Washington, D.C.": 2514815}

@@ -1,0 +1,46 @@
+City: Toronto, woe_id: 4118
+The trend name in Toronto :
+[u'#DigiFestTorontoThisSaturday', u'#CamTo2point3Mil', u'World Cup', u'#StanleyCupFinal', u'Toronto', u'#BecauseItsTheCup', u'#LAKings', u'Xbox', u'The Fault In Our Stars', u'Rangers']
+City: Seoul, woe_id: 1132599
+The trend name in Seoul :
+[u'\uc6d4\ub4dc\ucef5', u'\uc138\uc6d4\ud638', u'\ud3c9\uac00\uc804', u'\ube44\uc2a4\ud2b8', u'\uae40\ubb34\uc131', u'\ud64d\uba85\ubcf4', u'\ube0c\ub77c\uc9c8', u'\uccad\uc640\ub300', u'\ub300\ud654\ub85d', u'\ud68c\uc758\ub85d']
+City: Tokyo, woe_id: 1118370
+The trend name in Tokyo :
+[u'#\u3042\u308a\u306e\u307e\u307e\u304b\u3089\u306e\u4e88\u6e2c\u5909\u63db\u3067\u6587\u7ae0\u3092\u4f5c\u308b', u'#E3\u30d7\u30ec\u30a4\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3', u'\u7dd1\u9ad8\u306e\u65e5', u'\u767d\u3044PS4', u'\u30ab\u30f3\u30d5\u30a1', u'#\u52a3\u5316\u30b3\u30d4\u30fc', u'\u9045\u523b', u'\u5b66\u6821', u'\u6388\u696d', u'\u6628\u65e5']
+City: Paris, woe_id: 615702
+The trend name in Paris :
+[u'#AvecCauetJeVeuxVoirLesOneDirection', u'#UbiE3', u'#ACUnity', u'The Division', u'#E32014', u'#orages', u'wAllah', u'Ubisoft', u'Jama\xefque', u'Br\xe9sil']
+City: Madrid, woe_id: 766273
+The trend name in Madrid :
+[u'#FugaDeCerebros2', u'#ElchiringuitodePepe', u'#RickyMartinEH', u'#ElPuebloMasDivertido', u'#E3DJuegos', u'The Crew', u'Valiant Hearts', u'Sony', u'Ubisoft', u'Selectividad']
+City: Moscow, woe_id: 2122265
+The trend name in Moscow :
+[u'#\u043c\u043e\u044f\u043c\u043e\u0441\u043a\u0432\u0430', u'#\u041c\u043e\u0441\u043a\u0432\u0430\u0412\u044b\u0431\u0438\u0440\u0430\u0435\u0442', u'#8\u0438\u044e\u043d\u044f', u'#\u0426\u0435\u043f\u043e\u0447\u043a\u0430\u0424\u043e\u043b\u043b\u043e\u0432\u0435\u0440\u043e\u0432', u'\u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430', u'\u0421 \u0414\u043d\u0435\u043c \u0420\u043e\u0436\u0434\u0435\u043d\u0438\u044f', u'\u041c\u043e\u0441\u043a\u0432\u0435', u'\u041c\u0430\u043b\u0435\u0444\u0438\u0441\u0435\u043d\u0442\u0443', u'\u041f\u0438\u0442\u0435\u0440', u'#\u0422\u0412\u0418\u0422\u0422\u0415\u0420\u0421\u041a\u0418\u0415\u0421\u0410\u041c\u042b\u0415\u041b\u0423\u0427\u0428\u0418\u0415']
+City: Chicago, woe_id: 2379574
+The trend name in Chicago :
+[u'#JACOBSBIGANNOUNCEMENT', u'#NoRIP', u'#mattsyounow', u'#CamTo2point3Mil', u'#AskTylerAnything', u'Benzino', u'Power Couple', u'Erica', u'Nikko', u'Young Joc']
+City: Buenos Aires, woe_id: 468739
+The trend name in Buenos Aires :
+[u'#MeReGustaQue', u'#SiRegresaraEnElTiempoYo', u'#EfectoBoudou', u'#AmoALosPerrosCuando', u'#VasATomarLaMerienda', u'Tania', u'Comodoro Py', u'Belo Horizonte', u'Boudou', u'Argentina']
+City: Singapore, woe_id: 23424948
+The trend name in Singapore :
+[u'Rik Mayall', u'Singapore Indoor Stadium', u'Taylor Swift', u'Xbox One', u'World Cup', u'Starbucks', u'WhatsApp', u'Taiwan', u'The Fault in Our Stars', u'Yeap']
+City: Berlin, woe_id: 638242
+The trend name in Berlin :
+[u'#rar2014', u'#sherlock', u'#Tatort', u'Unwetter', u'W\xe4rme', u'#reus', u'#GERARM', u'Zimmer', u'Zeiten', u'Zuhause']
+City: New York, woe_id: 2459115
+The trend name in New York :
+[u'#JACOBSBIGANNOUNCEMENT', u'#mattsyounow', u'#SonyE3', u'#NoRIP', u'Love & Hip Hop', u'White PS4', u'Althea', u'#HillaryonABC', u'Diane Sawyer', u'Damien Sandow']
+City: London, woe_id: 44418
+The trend name in London :
+[u'Rik Mayall', u'#DavidBeckhamIntoTheUnknown', u'#CamTo2point3Mil', u'#AskTylerAnything', u'#PillsNPotionsVideoToday', u'#UbiE3', u'The Young Ones', u'Rainbow Six', u'Far Cry 4', u'Jon Snow']
+City: Los Angeles, woe_id: 2442047
+The trend name in Los Angeles :
+[u'#JACOBSBIGANNOUNCEMENT', u'#mattsyounow', u'#CamTo2point3Mil', u'#SonyE3', u'#PillsNPotionsVideoToday', u'White PS4', u'Van Slyke', u'Knicks', u'Jeff Carter', u'Derek Fisher']
+City: Vienna, woe_id: 551801
+The trend name in Vienna :
+[u'Vienna', u'Wien', u'#zib2', u'Vatertag', u'\xd6sterreich', u'#czeaut', u'Zeichen', u'#5sosDontStopBTSvideo', u'Tuam', u'#rar2014']
+City: Sydney, woe_id: 1105779
+The trend name in Sydney :
+[u'Rik Mayall', u'Peter Coleman', u'The Young Ones', u'#AFLDeesPies', u'#NRLCanBri', u'#QandA', u'#HouseRules', u'#thevoiceau', u'Jane Goodall', u'World Cup']
+City: Washington, D.C., woe_id: 2514815
