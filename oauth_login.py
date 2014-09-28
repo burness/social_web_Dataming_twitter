@@ -11,7 +11,9 @@ def oauth_login():
     auth=twitter.oauth.OAuth(OAUTH_TOKEN,OAUTH_TOKEN_SECRET,
                          CONSUMER_KEY,CONSUMER_SECRET)
     # with proxy_support,first you must set the goagent
-    proxy_support = urllib2.ProxyHandler({'https':'https://127.0.0.1:8087'})
+    #proxy_support = urllib2.ProxyHandler({'https':'https://127.0.0.1:8087'})
+    # with other proxy soft
+    proxy_support = urllib2.ProxyHandler({'https':'https://127.0.0.1:8580'})
     opener=urllib2.build_opener(proxy_support,urllib2.HTTPHandler)
     urllib2.install_opener(opener)
 
